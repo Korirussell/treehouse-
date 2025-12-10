@@ -196,25 +196,3 @@ curl -X POST http://localhost:8001/generate_description \
 curl http://localhost:8080/health
 ```
 
-## 🚧 Future Enhancements
-
-- [ ] User authentication and authorization
-- [ ] Image upload functionality
-- [ ] Search and filtering capabilities
-- [ ] Booking system
-- [ ] Payment integration
-- [ ] Review and rating system
-- [ ] Email notifications
-- [ ] Admin dashboard
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-Built as a portfolio project demonstrating full-stack development skills and modern architecture patterns.
-
----
-
-**Note**: This project was built to showcase technical skills and architectural understanding. It demonstrates proficiency in multiple languages, frameworks, and design patterns commonly used in production environments.
