@@ -1,6 +1,8 @@
 # Treehouse - AI-Powered Vacation Rental Platform
 
-![Treehouse Screenshot](./screenshot.png)
+![Treehouse Screenshot](./ss1.png)
+![Treehouse Screenshot](./ss2.png)
+![Treehouse Gif](./treeGif.gif)
 
 > A full-stack vacation rental platform with AI-generated listing descriptions, built with a microservices architecture using Next.js, Go, Python, and PostgreSQL.
 
@@ -132,11 +134,6 @@ Treehouse is a modern vacation rental platform that helps hosts create compellin
 
 For detailed setup instructions, see [QUICKSTART.md](./QUICKSTART.md).
 
-## 📸 Screenshots
-
-![Application Demo](./demo.gif)
-
-*Add your GIF demo here showing the listing creation flow*
 
 ## 🎯 Project Highlights
 
